@@ -1,9 +1,0 @@
-{
-    "paypal": {
-        "name": "Paypal",
-        "src": {
-            "original": "assets/paypal.svg",
-            "alt": "assets/paypal-alt.svg"
-        }
-    }
-}
